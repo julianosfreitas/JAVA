@@ -1,0 +1,5 @@
+package mustang;
+
+class funcionario {
+    
+}
