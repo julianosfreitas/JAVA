@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class zeroNove {
+public class maiorQue {
     
     public static void main(String[] args){
 
